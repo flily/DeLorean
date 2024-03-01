@@ -1,4 +1,4 @@
-package errorbase
+package errorchain
 
 import (
 	"fmt"

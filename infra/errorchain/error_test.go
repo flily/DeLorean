@@ -1,9 +1,10 @@
-package errorbase
+package errorchain
 
 import (
+	"testing"
+
 	"errors"
 	"io"
-	"testing"
 )
 
 func TestErrorChain(t *testing.T) {
